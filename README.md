@@ -1,2 +1,2 @@
-# Some batch scrips that looks useful to me
+# Some batch scripts that looks useful to me
 Plan to add more
